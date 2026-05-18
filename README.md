@@ -1,2 +1,12 @@
-Developed a Financial Portfolio Analysis Dashboard using Python and  SQL to evaluate investment performance, 
-calculate risk metrics, and compare portfolio returns against benchmark indices.
+# Financial Portfolio Analysis Case Study
+
+**Objective**
+
+Build a complete financial portfolio analysis system that evaluates stock performance, measures portfolio risk, compares benchmark returns, and visualizes insights through an interactive dashboard.
+
+This Case Study demonstrates:
+
+- Financial analytics
+- SQL and Python skills
+- Data visualization
+- Risk analysis
